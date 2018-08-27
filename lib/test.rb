@@ -1,1 +1,1 @@
-2.times do "hello"
+2.times do puts "hello"
